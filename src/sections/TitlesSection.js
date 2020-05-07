@@ -44,7 +44,7 @@ class TitlesSection extends Component {
             {Object.keys(data.links).map(key => {
               return (
                 <div className="icon">
-                  <SocialIcon url={data.links[key]} />
+                  <SocialIcon  network={data.links[key].network} url={data.links[key].links} />
                 </div>
               );
             })}

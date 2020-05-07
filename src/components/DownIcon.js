@@ -1,4 +1,4 @@
-import React, {Component} from "react";
+import React  from "react";
 
 const DownIcon = (props) => {
     return (
@@ -18,7 +18,7 @@ const DownIcon = (props) => {
             maxWidth: "30px"
           }}
         >
-          <img src={props.icon} />
+          <img src={props.icon}  alt=""/>
         </div>
       </div>
     )

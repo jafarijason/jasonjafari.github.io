@@ -9,7 +9,7 @@ class SkillCard extends Component {
       <div className="card">
       
         <div className="image-wrapper">
-          <img src={skill.content.image} />
+          <img src={skill.content.image} alt="" />
         </div>
         <div className="skill-title-wrapper">
           <h4>{skill.content.title}</h4>
