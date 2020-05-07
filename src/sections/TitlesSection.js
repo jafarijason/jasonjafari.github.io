@@ -4,7 +4,7 @@ import data from "../data.json";
 import { SocialIcon } from "react-social-icons";
 import "./TitlesSection.css";
 import DownIcon from "../components/DownIcon";
-// import { Link, Element } from "react-scroll";
+import { Link, Element } from "react-scroll";
 
 class TitlesSection extends Component {
   constructor() {
@@ -44,14 +44,27 @@ class TitlesSection extends Component {
             {Object.keys(data.links).map(key => {
               return (
                 <div className="icon">
-                  <SocialIcon url={data.links[key]} />
+                  <SocialIcon   style={{ height: 100, width: 100 }}  network={data.links[key].network}  url={data.links[key].links} />
                 </div>
               );
             })}
           </div>
         </Fullpage>
-        
-        
+        <Link
+          activeClass="active"
+          to="about"
+          spy={true}
+          smooth={true}
+          offset={0}
+          duration={500}
+          delay={0}
+        >
+          <DownIcon
+            icon={data.icons.down}
+            onClick={() => console.log("im working")}
+          />
+        </Link>
+        <Element name="about" className="element" />
       </div>
     );
   }

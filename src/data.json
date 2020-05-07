@@ -1,14 +1,35 @@
 {
     "title": "Hello This is Jason Jafari Marandi!",
-    "subtitle": "Full Stack Dev | Data Scientist, Machine learning & AI Experienced |Open-Source Enthusiast",
+    "subtitle": "Full Stack Dev | Data Scientist | Open-Source Enthusiast",
     "links": {
-        "github": "https://github.com/thisisjasonjafari",
-        "stackoverflow": "https://stackoverflow.com/users/11250246/jason-jafari-marandi",
-        "linkedin": "https://www.linkedin.com/in/jasonjafari/",
-        "youracclaim": "https://www.youracclaim.com/users/jason-jafari/badges",
-        "hackerrank": "https://www.hackerrank.com/jasonjafari",
-        "kaggle": "https://www.kaggle.com/jafarib",
-        "myCertificate": "http://certificate.jasonjafari.com/"
+        "github": {
+            "network": "github",
+            "links": "https://github.com/thisisjasonjafari"
+        },
+        "linkedin": {
+            "network": "linkedin",
+            "links": "https://www.linkedin.com/in/jasonjafari/"
+        },
+        "myCertificate": {
+            "network": "itunes",
+            "links": "http://certificate.jasonjafari.com/"
+        },
+        "youracclaim": {
+            "network": "vsco",
+            "links": "https://www.youracclaim.com/users/jason-jafari/badges"
+        },
+        "hackerrank": {
+            "network": "meetup",
+            "links": "https://www.hackerrank.com/jasonjafari"
+        },
+        "kaggle": {
+            "network": "flickr",
+            "links": "https://www.kaggle.com/jafarib"
+        },
+        "stackoverflow": {
+            "network": "email",
+            "links": "https://stackoverflow.com/users/11250246/jason-jafari-marandi"
+        }
     },
     "sections": [
         {
