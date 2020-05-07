@@ -8,7 +8,7 @@ const DownIcon = (props) => {
           display: "flex",
           flexDirection: "row",
           alignItems: "center",
-          justifyContent: "center",
+          justifyContent: "flex-end",
           marginBottom: "-34px",
           transform: "translateY(-45px)"
         }}

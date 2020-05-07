@@ -10,7 +10,7 @@ class AboutSection extends Component {
       <div name="Aboutscrool">
       <Fullpage className="second">
         <h3>{data.sections[0].title}</h3>
-        <div>
+        <div >
           {data.sections[0].items.map(hj =>  {
             return <p> {hj.content} </p> 
           })}

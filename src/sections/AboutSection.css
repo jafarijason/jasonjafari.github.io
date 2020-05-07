@@ -5,6 +5,7 @@ p {
 
 .second {
     background-color: #ffff59;
+    font-size: 0.9rem;
 }
 
  
@@ -12,3 +13,16 @@ p {
 h3 {
     font-size: 3rem;
 }
+
+
+
+@media only screen and (max-height: 700px) {
+    .h3 {
+        font-size: 0.5rem;
+    }
+    .second {
+        
+        font-size: 0.2rem;
+    }
+     
+  }

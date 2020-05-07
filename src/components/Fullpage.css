@@ -7,3 +7,12 @@
     justify-content: center;
     align-items: center;
 }
+
+
+@media only screen and (max-height: 700px) {
+    .fullpage {
+      font-size: smaller;
+    }
+   
+  }
+  

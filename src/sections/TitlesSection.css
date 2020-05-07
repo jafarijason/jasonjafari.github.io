@@ -1,15 +1,39 @@
 .first {
-    background-color: #004080;
-    color: white;
+  /* background-color: #7fb6ee; */
+  background-color: #004080;
+  color: white;
 }
 
 .icons-wrapper {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+  width: 80%;
+  float: left;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.TitleContent {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
 .icon {
-    margin: 30px;
+  margin: 0.5em;
+}
+
+.mainimages {
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+}
+
+@media only screen and (max-height: 700px) {
+  .mainimages {
+    width: 20%;
+  }
+  .icon {
+    margin: 0.3em;
+  }
 }

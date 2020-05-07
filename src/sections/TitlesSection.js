@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Fullpage from "../components/Fullpage";
-import data from "../data.json";
+import titleSection from "./titleSection.json";
 import { SocialIcon } from "react-social-icons";
 import "./TitlesSection.css";
 import { Link } from "react-scroll";
@@ -23,9 +23,11 @@ class TitlesSection extends Component {
       <div>
             
         <Fullpage className="first">
-        
+        <div className="title TitleContent"> 
+          <img alt="" className="mainimages" src={ titleSection.imglink}></img>
+        </div>
           <h1
-            className="title"
+            className="title TitleContent"
             style={{ color: this.state.color }}
             onMouseOver={() => {
               this.changeColor();
@@ -34,17 +36,17 @@ class TitlesSection extends Component {
               this.changeColor();
             }}
           >
-            {data.title}
+            {titleSection.title}
           </h1>
 
-          <div>
-            <h2>{data.subtitle}</h2>
+          <div className="TitleContent">
+            <h2>{titleSection.subtitle}</h2>
           </div>
           <div className="icons-wrapper">
-            {Object.keys(data.links).map(key => {
+            {Object.keys(titleSection.links).map(key => {
               return (
                 <div className="icon">
-                  <SocialIcon  network={data.links[key].network} url={data.links[key].links} />
+                  <SocialIcon    network={titleSection.links[key].network} url={titleSection.links[key].links}  bgColor="#7fb6ee" />
                 </div>
               );
             })}
@@ -62,7 +64,7 @@ class TitlesSection extends Component {
             delay={30}
           >
             <DownIcon
-              icon={data.icons.down}
+              icon={titleSection.icons.down}
               onClick={() => console.log("im working")}
             />
           </Link>
