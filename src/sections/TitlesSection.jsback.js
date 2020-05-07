@@ -3,8 +3,8 @@ import Fullpage from "../components/Fullpage";
 import data from "../data.json";
 import { SocialIcon } from "react-social-icons";
 import "./TitlesSection.css";
-import { Link } from "react-scroll";
 import DownIcon from "../components/DownIcon";
+import { Link, Element } from "react-scroll";
 
 class TitlesSection extends Component {
   constructor() {
@@ -16,27 +16,27 @@ class TitlesSection extends Component {
   }
 
   changeColor() {
-    this.setState({ color: this.state.color === "white" ? "yellow" : "white" });
+    this.setState({
+      color: this.state.color === "white" ? "yellow" : "white"
+    });
   }
+
   render() {
     return (
       <div>
-            
         <Fullpage className="first">
-        
           <h1
             className="title"
-            style={{ color: this.state.color }}
-            onMouseOver={() => {
-              this.changeColor();
+            style={{
+              color: this.state.color
             }}
+            onMouseOver={this.changeColor}
             onMouseLeave={() => {
               this.changeColor();
             }}
           >
             {data.title}
           </h1>
-
           <div>
             <h2>{data.subtitle}</h2>
           </div>
@@ -49,23 +49,22 @@ class TitlesSection extends Component {
               );
             })}
           </div>
-          
         </Fullpage>
-      
         <Link
-            activeClass="active"
-            to="end"
-            spy={true}
-            smooth={true}
-            offset={0}
-            duration={800}
-            delay={30}
-          >
-            <DownIcon
-              icon={data.icons.down}
-              onClick={() => console.log("im working")}
-            />
-          </Link>
+          activeClass="active"
+          to="about"
+          spy={true}
+          smooth={true}
+          offset={0}
+          duration={500}
+          delay={0} 
+        >
+          <DownIcon
+            icon={data.icons.down}
+            onClick={() => console.log("im working")}
+          />
+        </Link>
+        <Element name="about" className="element" />
       </div>
     );
   }

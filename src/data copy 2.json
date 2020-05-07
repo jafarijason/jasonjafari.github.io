@@ -1,35 +1,13 @@
 {
   "title": "Hello This is Jason Jafari Marandi!",
-  "subtitle": "Full Stack Dev | Data Scientist | Open-Source Enthusiast",
+  "subtitle": "Full Stack Dev | Open-Source Enthusiast",
   "links": {
-      "github": {
-          "network": "github",
-          "links": "https://github.com/thisisjasonjafari"
-      },
-      "linkedin": {
-          "network": "linkedin",
-          "links": "https://www.linkedin.com/in/jasonjafari/"
-      },
-      "myCertificate": {
-          "network": "itunes",
-          "links": "http://certificate.jasonjafari.com/"
-      },
-      "youracclaim": {
-          "network": "vsco",
-          "links": "https://www.youracclaim.com/users/jason-jafari/badges"
-      },
-      "hackerrank": {
-          "network": "meetup",
-          "links": "https://www.hackerrank.com/jasonjafari"
-      },
-      "kaggle": {
-          "network": "flickr",
-          "links": "https://www.kaggle.com/jafarib"
-      },
-      "stackoverflow": {
-          "network": "email",
-          "links": "https://stackoverflow.com/users/11250246/jason-jafari-marandi"
-      }
+    "github": "https://github.com/thisisjasonjafari",
+    "stackoverflow": "https://stackoverflow.com/users/11250246/jason-jafari-marandi",
+    "linkedin": "https://www.linkedin.com/in/mohamad-hossein-jafari-marandi-4176a138/",
+    "facebook": "https://www.facebook.com/mohamadhossein.jafarimarandi",
+    "twitter": "https://twitter.com/engjafarim",
+    "instagram": "https://www.instagram.com/moh.jafari.m/"
   },
   "sections": [
     {

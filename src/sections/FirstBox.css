@@ -1,0 +1,15 @@
+.FirstBox {
+    position: fixed;
+  color: white;
+    width: 100%;
+    border: 0px solid green;
+  }
+  .rightplace{
+font-size: 1.5rem;
+font: bold;
+font-weight: 700;
+    position: relative;
+   float: right;
+   right: 10%;
+
+  }
