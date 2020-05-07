@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import TitlesSection from "./sections/TitlesSection";
 import AboutSection from "./sections/AboutSection";
-// import SkillSection from "./sections/SkillSectionLanguages";
+import SkillSectionLanguages from "./sections/SkillSectionLanguages";
+import DataBaseKoledge from "./sections/DataBaseKoledge";
 import SkillSection from "./sections/SkillSection";
 import FirstBox from "./sections/FirstBox";
 import EndBox from "./sections/EndBox";
@@ -18,7 +19,8 @@ class App extends Component {
         <FirstBox />
         <TitlesSection />
         <AboutSection />
-        <SkillSection />
+        <SkillSectionLanguages />
+        <DataBaseKoledge />
         <SkillSection />
         <EndBox />
 

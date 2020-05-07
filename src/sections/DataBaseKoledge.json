@@ -1,0 +1,49 @@
+{
+    "title": "Database SkillS",
+    "items": [
+      {
+        "type": "card",
+        "content": {
+          "image": "images/databases/MySQL.png",
+          "title": "MySQL"
+        }
+      }, {
+        "type": "card",
+        "content": {
+          "image": "images/databases/MariaDB.png",
+          "title": "MariaDB"
+        }
+      }, {
+        "type": "card",
+        "content": {
+          "image": "images/databases/PostgreSQL.png",
+          "title": "PostgreSQL"
+        }
+      }, {
+        "type": "card",
+        "content": {
+          "image": "images/databases/MS-SQL.png",
+          "title": "MS-SQL"
+        }
+      }, {
+        "type": "card",
+        "content": {
+          "image": "images/databases/SQLite.png",
+          "title": "SQLite"
+        }
+      }, {
+        "type": "card",
+        "content": {
+          "image": "images/databases/MongoDB.png",
+          "title": "MongoDB"
+        }
+      }, {
+        "type": "card",
+        "content": {
+          "image": "images/databases/Redis.png",
+          "title": "Redis"
+        }
+      }
+       
+    ]
+  }

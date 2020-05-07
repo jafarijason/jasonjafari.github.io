@@ -1,18 +1,18 @@
 import React, { Component } from "react";
 import Fullpage from "../components/Fullpage";
-import skilllanguagessss from "./SkillSectionLanguages.json";
+import skilllanguagessss from "./DataBaseKoledge.json";
 import data from "../data.json";
 import SkillCard from '../components/SkillCard';
 import DownIcon from "../components/DownIcon";
 import {  Link  } from "react-scroll";
-import "./SkillSectionLanguages.css";
+import "./DataBaseKoledge.css";
 
 class SkillSectionLanguages extends Component {
   render() {
     return (
-      <div name="portfolioscrool">      <Fullpage className="thirdLanguages">
+      <div name="portfolioscrool">      <Fullpage className="DataBaseKoledge">
        
-        <h3  className="thirdLanguages" >{skilllanguagessss.title}</h3>
+        <h3  className="DataBaseKoledge" >{skilllanguagessss.title}</h3>
         <div className="cards-wrapper">
           {skilllanguagessss.items.map(eachSkill => {
             return (

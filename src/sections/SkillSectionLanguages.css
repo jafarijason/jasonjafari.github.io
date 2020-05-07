@@ -1,0 +1,13 @@
+.thirdLanguages {
+  background-color: #2489a8;
+  color: white;
+}
+
+.thirdLanguages .cards-wrapper .card {
+  background-color: rgba(46, 56, 56, 0.39);
+}
+
+.thirdLanguages .image-wrapper {
+    text-align: right;
+}
+ 

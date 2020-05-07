@@ -1,0 +1,61 @@
+{
+    "title": "Programming Skills",
+    "items": [
+      {
+        "type": "card",
+        "content": {
+          "image": "images/languages/Python.png",
+          "title": "Python"
+        }
+      },{
+        "type": "card",
+        "content": {
+          "image": "images/languages/Cpp.png",
+          "title": "C++"
+        }
+      } ,{
+        "type": "card",
+        "content": {
+          "image": "images/languages/PHP.png",
+          "title": "PHP"
+        }
+      } ,{
+        "type": "card",
+        "content": {
+          "image": "images/languages/JavaScript.png",
+          "title": "Java Script"
+        }
+      } ,{
+        "type": "card",
+        "content": {
+          "image": "images/languages/SQL.png",
+          "title": "SQL"
+        }
+      } ,{
+        "type": "card",
+        "content": {
+          "image": "images/languages/HTML.png",
+          "title": "HTML"
+        }
+      } ,{
+        "type": "card",
+        "content": {
+          "image": "images/languages/CSS.png",
+          "title": "CSS"
+        }
+      } ,{
+        "type": "card",
+        "content": {
+          "image": "images/languages/MATLAB.png",
+          "title": "MATLAB"
+        }
+      } ,{
+        "type": "card",
+        "content": {
+          "image": "images/languages/R.png",
+          "title": "R"
+        }
+      }  
+       
+    ]
+  }
