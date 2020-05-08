@@ -1,27 +1,6 @@
 {
-    "title": "Cloud Computing",
+    "title": "Virtualization",
     "items": [
-        {
-            "type": "card",
-            "content": {
-                "image": "images/CloudComputing/VMware.png",
-                "title": "VMware"
-            }
-        },
-        {
-            "type": "card",
-            "content": {
-                "image": "images/CloudComputing/Windows Hyper-V.png",
-                "title": "Windows Hyper-V"
-            }
-        },
-        {
-            "type": "card",
-            "content": {
-                "image": "images/CloudComputing/Virtual box.png",
-                "title": "Virtual box"
-            }
-        },
         {
             "type": "card",
             "content": {
@@ -39,8 +18,30 @@
         {
             "type": "card",
             "content": {
+                "image": "images/CloudComputing/VMware.png",
+                "title": "VMware"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/CloudComputing/Windows-Hyper-V.png",
+                "title": "Windows Hyper-V"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/CloudComputing/Virtual-box.png",
+                "title": "Virtual box"
+            }
+        },
+        
+        {
+            "type": "card",
+            "content": {
                 "image": "images/CloudComputing/docker.png",
-                "title": "docker"
+                "title": "Docker"
             }
         } 
     ]
