@@ -1,36 +1,34 @@
 {
-  
-   
   "sections": [
     {
       "title": "About",
       "items": [
-          {
-              "type": "p",
-              "content": "I love to learn."
-          },
-          {
-              "type": "p",
-              "content": "I beleive in self-learning."
-          },
-          {
-              "type": "p",
-              "content": "When my dev senses kick-in I build presumably awesome stuff. I stay close to the community and try to keep tabs with the pace at which the web is evolving. I also like to blog what I learn."
-          },
-          {
-              "type": "p",
-              "content": "Full stack developer with 8+ years of experience in developing application ranging from desktop to web app solutions and having a good understanding of OOP, MVC, REST and Python frameworks (Django & Flask) with expertise in designing, developing, executing, testing, and debugging dynamic web pages as well as performing modifications in existing code bases to add new features."
-          },
-          {
-              "type": "p",
-              "content": "I have worked with both RDBMS (MySQL, Maria DB, Microsoft SQL Server and SQLite) and NoSQL (MongoDB) databases extensively and have expertise in enterprise application development. I have also been as a data scientist lead developer of a laboratory diagnostic devices company."
-          },
-          {
-              "type": "p",
-              "content": "I have had a chance to challenge with real data and I have implemented useful machine learning algorithm to clustering and classifying the results. I have used neural networks and artificial intelligent methods such MLP and RBFN to approximate good function for complex sensors."
-          }
+        {
+          "type": "p",
+          "content": "I love to learn."
+        },
+        {
+          "type": "p",
+          "content": "I beleive in self-learning."
+        },
+        {
+          "type": "p",
+          "content": "When my dev senses kick-in I build presumably awesome stuff. I stay close to the community and try to keep tabs with the pace at which the web is evolving. I also like to blog what I learn."
+        },
+        {
+          "type": "p",
+          "content": "Full stack developer with 8+ years of experience in developing application ranging from desktop to web app solutions and having a good understanding of OOP, MVC, REST and Python frameworks (Django & Flask) with expertise in designing, developing, executing, testing, and debugging dynamic web pages as well as performing modifications in existing code bases to add new features."
+        },
+        {
+          "type": "p",
+          "content": "I have worked with both RDBMS (MySQL, Maria DB, Microsoft SQL Server and SQLite) and NoSQL (MongoDB) databases extensively and have expertise in enterprise application development. I have also been as a data scientist lead developer of a laboratory diagnostic devices company."
+        },
+        {
+          "type": "p",
+          "content": "I have had a chance to challenge with real data and I have implemented useful machine learning algorithm to clustering and classifying the results. I have used neural networks and artificial intelligent methods such MLP and RBFN to approximate good function for complex sensors."
+        }
       ]
-  },
+    },
     {
       "title": "Other Skills",
       "items": [
@@ -40,63 +38,63 @@
             "image": "images/otherSkills/MVC.png",
             "title": "MVC"
           }
-        } ,
+        },
         {
           "type": "card",
           "content": {
             "image": "images/otherSkills/ORM.png",
             "title": "ORM"
           }
-        } ,
+        },
         {
           "type": "card",
           "content": {
             "image": "images/otherSkills/OOP.png",
             "title": "OOP"
           }
-        } ,
+        },
         {
           "type": "card",
           "content": {
             "image": "images/otherSkills/SEO.png",
             "title": "SEO"
           }
-        } ,
+        },
         {
           "type": "card",
           "content": {
             "image": "images/otherSkills/RegEx.png",
             "title": "RegEx"
           }
-        } ,
+        },
         {
           "type": "card",
           "content": {
             "image": "images/otherSkills/Unit Testing.png",
             "title": "Unit Testing"
           }
-        } ,
+        },
         {
           "type": "card",
           "content": {
             "image": "images/otherSkills/MikroTik.png",
             "title": "MikroTik"
           }
-        } ,
+        },
         {
           "type": "card",
           "content": {
             "image": "images/otherSkills/Server-Management.png",
             "title": "Server TCP/IP"
           }
-        } ,
+        },
         {
           "type": "card",
           "content": {
             "image": "images/otherSkills/REST-API.png",
             "title": "HTTP REST API"
           }
-        } 
+        }
       ]
     }
   ],
@@ -107,31 +105,38 @@
   "keyyss": [
     {
       "name": "Home",
-      "desteny" : "maincontentent"
+      "desteny": "maincontentent",
+      "type": "S"
     },
     {
       "name": "About",
-      "desteny" : "Aboutscrool"
+      "desteny": "Aboutscrool",
+      "type": "S"
     },
     {
-      "name": "Portfolio",
-      "desteny" : "portfolioscrool"
+      "name": "Skills",
+      "desteny": "portfolioscrool",
+      "type": "S"
     },
     {
-      "name": "Portfolio",
-      "desteny" : "portfolioscrool"
+      "name": "AI & ML",
+      "desteny": "AIandMachine"
     },
     {
-      "name": "Portfolio",
-      "desteny" : "portfolioscrool"
+      "name": "TeamWork",
+      "desteny": "teamWork"
     },
     {
-      "name": "Portfolio",
-      "desteny" : "portfolioscrool"
-    },
+      "name": "CC",
+      "desteny": "clcl"
+    } ,
     {
-      "name": "Portfolio",
-      "desteny" : "portfolioscrool"
-    }
+      "name": "Eng Tools",
+      "desteny": "engtools"
+    } ,
+    {
+      "name": "Others",
+      "desteny": "otherss"
+    } 
   ]
 }

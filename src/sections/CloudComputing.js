@@ -10,7 +10,7 @@ import "./CloudComputing.css";
 class CloudComputing extends Component {
   render() {
     return (
-      <div name="portfolioscrool">      <Fullpage className="CloudComputing">
+      <div name="clcl">      <Fullpage className="CloudComputing">
        
         <h3  style={{color: "balck"}} className="CloudComputing" >{skilllanguagessss.title}</h3>
         <div className="cards-wrapper">

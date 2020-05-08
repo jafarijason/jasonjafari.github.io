@@ -9,7 +9,7 @@ import "./SkillSection.css";
 class AboutSection extends Component {
   render() {
     return (
-      <div name="portfolioscrool">      <Fullpage className="third">
+      <div name="otherss">      <Fullpage className="third">
        
         <h3>{data.sections[1].title}</h3>
         <div className="cards-wrapper">

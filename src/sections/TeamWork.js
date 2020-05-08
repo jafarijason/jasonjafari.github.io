@@ -10,7 +10,7 @@ import "./TeamWork.css";
 class TeamWork extends Component {
   render() {
     return (
-      <div name="portfolioscrool">      <Fullpage className="TeamWork">
+      <div name="teamWork">      <Fullpage className="TeamWork">
        
         <h3  style={{color: "balck"}} className="TeamWork" >{skilllanguagessss.title}</h3>
         <div className="cards-wrapper">

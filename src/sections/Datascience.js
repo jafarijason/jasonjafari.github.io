@@ -10,7 +10,7 @@ import "./Datascience.css";
 class Datascience extends Component {
   render() {
     return (
-      <div name="portfolioscrool">      <Fullpage className="thirdAIMLANDNN">
+      <div name="AIandMachine">      <Fullpage className="thirdAIMLANDNN">
        
         <h3  style={{color: "balck"}} className="thirdAIMLANDNN" >{skilllanguagessss.title}</h3>
         <div className="cards-wrapper">

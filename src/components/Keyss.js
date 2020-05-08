@@ -8,7 +8,7 @@ class Keyss extends Component {
     return (
      
       
-        <div  className="keyysssss"  style={{float: "left",padding: "1em" , textShadow: "-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black"}}>
+        <div  className="keyysssss"  style={{float: "left",padding: "0.9em" , textShadow: "-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black"}}>
         <Link  id={Keyss.name}   activeClass="active"     to={Keyss.desteny}     spy={true}   smooth={true}   offset={0}    duration={800}    delay={30}    > {Keyss.name}  </Link>
            
         </div>

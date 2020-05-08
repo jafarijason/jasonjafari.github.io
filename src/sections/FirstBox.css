@@ -7,7 +7,7 @@
   z-index: 100000;
 }
 .rightplace {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   font: bold;
   font-weight: 700;
   position: relative;
@@ -17,6 +17,6 @@
 
 @media only screen and (max-width: 900px) {
   .rightplace {
-    font-size: 0.5rem;
+    font-size: 0.4rem;
   }
 }
