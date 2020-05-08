@@ -29,8 +29,13 @@
             "links": "https://www.kaggle.com/jafarib"
         },
         "stackoverflow": {
-            "network": "email",
+            "network": "sharethis",
             "links": "https://stackoverflow.com/users/11250246/jason-jafari-marandi"
+        }
+        ,
+        "Mail": {
+            "network": "email",
+            "links": "mailto:me@jasonjafari.com"
         }
     },
     "icons": {
