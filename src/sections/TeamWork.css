@@ -1,0 +1,13 @@
+.TeamWork {
+  background-color: #ffffff;
+   
+}
+
+.TeamWork .cards-wrapper .card {
+  background-color: rgb(255, 0, 0);
+}
+
+.TeamWork .image-wrapper {
+    text-align: right;
+}
+ 

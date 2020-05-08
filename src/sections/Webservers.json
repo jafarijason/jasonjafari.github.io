@@ -1,0 +1,34 @@
+{
+    "title": "Web Servers",
+    "items": [
+        {
+            "type": "card",
+            "content": {
+                "image": "images/webservers/Apache.png",
+                "title": "Apache"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/webservers/Nginx.png",
+                "title": "Nginx"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/webservers/Lite speed.png",
+                "title": "Lite speed"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/webservers/IIS.png",
+                "title": "IIS"
+            }
+        } 
+         
+    ]
+}

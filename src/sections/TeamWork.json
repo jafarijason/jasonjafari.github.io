@@ -1,0 +1,47 @@
+{
+    "title": "TeamWork",
+    "items": [
+        {
+            "type": "card",
+            "content": {
+                "image": "images/teamwork/Git.png",
+                "title": "Git"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/teamwork/GitHub.png",
+                "title": "GitHub"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/teamwork/Gitea.png",
+                "title": "Gitea"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/teamwork/Trello.png",
+                "title": "Trello"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/teamwork/Scrum.png",
+                "title": "Scrum"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/teamwork/Agile.png",
+                "title": "Agile"
+            }
+        }
+    ]
+}

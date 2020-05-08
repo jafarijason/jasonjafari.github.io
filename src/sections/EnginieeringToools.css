@@ -1,0 +1,13 @@
+.EnginieeringToools {
+  background-color: #000000;
+   color: white;
+}
+
+.EnginieeringToools .cards-wrapper .card {
+  background-color: rgb(15, 106, 209);
+}
+
+.EnginieeringToools .image-wrapper {
+    text-align: right;
+}
+ 

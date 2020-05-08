@@ -32,50 +32,71 @@
       ]
   },
     {
-      "title": "Skills",
+      "title": "Other Skills",
       "items": [
         {
           "type": "card",
           "content": {
-            "image": "images/react.png",
-            "title": "React"
+            "image": "images/otherSkills/MVC.png",
+            "title": "MVC"
           }
-        },
+        } ,
         {
           "type": "card",
           "content": {
-            "image": "images/javascript.png",
-            "title": "Javascript"
+            "image": "images/otherSkills/ORM.png",
+            "title": "ORM"
           }
-        },
+        } ,
         {
           "type": "card",
           "content": {
-            "image": "images/html.png",
-            "title": "HTML"
+            "image": "images/otherSkills/OOP.png",
+            "title": "OOP"
           }
-        },
+        } ,
         {
           "type": "card",
           "content": {
-            "image": "images/css.png",
-            "title": "CSS"
+            "image": "images/otherSkills/SEO.png",
+            "title": "SEO"
           }
-        },
+        } ,
         {
           "type": "card",
           "content": {
-            "image": "images/python.png",
-            "title": "Python"
+            "image": "images/otherSkills/RegEx.png",
+            "title": "RegEx"
           }
-        },
+        } ,
         {
           "type": "card",
           "content": {
-            "image": "images/prog.png",
-            "title": "Django"
+            "image": "images/otherSkills/Unit Testing.png",
+            "title": "Unit Testing"
           }
-        }
+        } ,
+        {
+          "type": "card",
+          "content": {
+            "image": "images/otherSkills/MikroTik.png",
+            "title": "MikroTik"
+          }
+        } ,
+        {
+          "type": "card",
+          "content": {
+            "image": "images/otherSkills/Server-Management.png",
+            "title": "Server TCP/IP"
+          }
+        } ,
+        {
+          "type": "card",
+          "content": {
+            "image": "images/otherSkills/REST-API.png",
+            "title": "HTTP REST API"
+          }
+        } 
       ]
     }
   ],

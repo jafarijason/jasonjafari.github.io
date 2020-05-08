@@ -8,6 +8,10 @@ import SkillSection from "./sections/SkillSection";
 import PythonLibrary from "./sections/PythonLibrary";
 import PythonLibrary1 from "./sections/PythonLibrary1";
 import Datascience from "./sections/Datascience";
+import TeamWork from "./sections/TeamWork";
+import Webservers from "./sections/Webservers";
+import CloudComputing from "./sections/CloudComputing";
+import EnginieeringToools from "./sections/EnginieeringToools";
 import FirstBox from "./sections/FirstBox";
 import EndBox from "./sections/EndBox";
 import "./App.css";
@@ -29,6 +33,11 @@ class App extends Component {
         <PythonLibrary />
         <PythonLibrary1 />
         <Datascience />
+        <TeamWork />
+        <Webservers />
+        <CloudComputing />
+        <EnginieeringToools />
+
         <SkillSection />
         <EndBox />
 

@@ -1,0 +1,47 @@
+{
+    "title": "Cloud Computing",
+    "items": [
+        {
+            "type": "card",
+            "content": {
+                "image": "images/CloudComputing/VMware.png",
+                "title": "VMware"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/CloudComputing/Windows Hyper-V.png",
+                "title": "Windows Hyper-V"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/CloudComputing/Virtual box.png",
+                "title": "Virtual box"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/CloudComputing/AWS.png",
+                "title": "AWS"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/CloudComputing/GCP.png",
+                "title": "GCP"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/CloudComputing/docker.png",
+                "title": "docker"
+            }
+        } 
+    ]
+}

@@ -1,0 +1,13 @@
+.CloudComputing {
+  background-color: #ec5f01;
+   color: white;
+}
+
+.CloudComputing .cards-wrapper .card {
+  background-color: rgb(117, 117, 117);
+}
+
+.CloudComputing .image-wrapper {
+    text-align: right;
+}
+ 

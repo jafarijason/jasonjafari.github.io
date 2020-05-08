@@ -1,0 +1,33 @@
+{
+    "title": "Enginieering Toools",
+    "items": [
+        {
+            "type": "card",
+            "content": {
+                "image": "images/EnginieeringToools/Solid-Works.png",
+                "title": "Solid Works"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/CloudComputing/Altium-Designer.png",
+                "title": "Altium Designer"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/CloudComputing/Arduino.png",
+                "title": "Arduino"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/CloudComputing/LABView.png",
+                "title": "LABView"
+            }
+        } 
+    ]
+}
