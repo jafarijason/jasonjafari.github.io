@@ -4,6 +4,8 @@ import AboutSection from "./sections/AboutSection";
 import SkillSectionLanguages from "./sections/SkillSectionLanguages";
 import DataBaseKoledge from "./sections/DataBaseKoledge";
 import SkillSection from "./sections/SkillSection";
+import PythonLibrary from "./sections/PythonLibrary";
+import PythonLibrary1 from "./sections/PythonLibrary1";
 import FirstBox from "./sections/FirstBox";
 import EndBox from "./sections/EndBox";
 import "./App.css";
@@ -21,6 +23,8 @@ class App extends Component {
         <AboutSection />
         <SkillSectionLanguages />
         <DataBaseKoledge />
+        <PythonLibrary />
+        <PythonLibrary1 />
         <SkillSection />
         <EndBox />
 

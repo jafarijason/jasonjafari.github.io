@@ -1,0 +1,69 @@
+{
+    "title": "Python Libraries",
+    "items": [
+      {
+        "type": "card",
+        "content": {
+          "image": "images/pythonlibrary/Pandas.png",
+          "title": "Pandas"
+        }
+      } ,
+      {
+        "type": "card",
+        "content": {
+          "image": "images/pythonlibrary/Numpy.png",
+          "title": "Numpy"
+        }
+      } ,
+      {
+        "type": "card",
+        "content": {
+          "image": "images/pythonlibrary/Matplotlib.png",
+          "title": "Matplotlib"
+        }
+      } ,
+      {
+        "type": "card",
+        "content": {
+          "image": "images/pythonlibrary/plotly.png",
+          "title": "plotly"
+        }
+      } ,
+      {
+        "type": "card",
+        "content": {
+          "image": "images/pythonlibrary/Tkinter.png",
+          "title": "Tkinter"
+        }
+      } ,
+      {
+        "type": "card",
+        "content": {
+          "image": "images/pythonlibrary/QtPy.png",
+          "title": "QtPy"
+        }
+      } ,
+      {
+        "type": "card",
+        "content": {
+          "image": "images/pythonlibrary/kivy.png",
+          "title": "kivy"
+        }
+      } ,
+      {
+        "type": "card",
+        "content": {
+          "image": "images/pythonlibrary/BeautifulSoup.png",
+          "title": "Beautiful Soup"
+        }
+      } ,
+      {
+        "type": "card",
+        "content": {
+          "image": "images/pythonlibrary/Selenium.png",
+          "title": "Selenium"
+        }
+      }  
+       
+    ]
+  }

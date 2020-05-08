@@ -1,0 +1,33 @@
+{
+    "title": "Python Libraries",
+    "items": [
+        {
+            "type": "card",
+            "content": {
+                "image": "images/pythonlibrary1/ScikitLearn.png",
+                "title": "Scikit Learn"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/pythonlibrary1/Tensorflow.png",
+                "title": "Tensorflow"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/pythonlibrary1/Keras.png",
+                "title": "Keras"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/pythonlibrary1/OpenCv.png",
+                "title": "OpenCv"
+            }
+        } 
+    ]
+}
