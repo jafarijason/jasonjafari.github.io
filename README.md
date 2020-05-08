@@ -1,9 +1,1 @@
-## another library
-
-use 
-https://github.com/jaketrent/react-social-icons
-
-
- 
-import { SocialIcon } from 'react-social-icons';
-ReactDOM.render(<SocialIcon url="https://twitter.com/jaketrent" />, document.body);
+## [ You can Watch my Cv on ](https://github.com/thisisjasonjafari/JasonJafariResumeReact)
