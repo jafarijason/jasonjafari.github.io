@@ -11,21 +11,21 @@
         {
             "type": "card",
             "content": {
-                "image": "images/CloudComputing/Altium-Designer.png",
+                "image": "images/EnginieeringToools/Altium-Designer.png",
                 "title": "Altium Designer"
             }
         },
         {
             "type": "card",
             "content": {
-                "image": "images/CloudComputing/Arduino.png",
+                "image": "images/EnginieeringToools/Arduino.png",
                 "title": "Arduino"
             }
         },
         {
             "type": "card",
             "content": {
-                "image": "images/CloudComputing/LABView.png",
+                "image": "images/EnginieeringToools/LABView.png",
                 "title": "LABView"
             }
         } 
