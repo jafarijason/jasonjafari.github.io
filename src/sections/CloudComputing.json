@@ -1,48 +1,55 @@
 {
     "title": "Virtualization",
+    "backgroundcolor1": "#2b2a2a",
+    "backgroundcolor2": "#00000000",
     "items": [
         {
             "type": "card",
             "content": {
                 "image": "images/CloudComputing/AWS.png",
-                "title": "AWS"
+                "title": "AWS",
+                "score": 70
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/CloudComputing/GCP.png",
-                "title": "GCP"
+                "title": "GCP",
+                "score": 50
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/CloudComputing/VMware.png",
-                "title": "VMware"
+                "title": "VMware",
+                "score": 90
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/CloudComputing/Windows-Hyper-V.png",
-                "title": "Windows Hyper-V"
+                "title": "Windows Hyper-V",
+                "score": 70
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/CloudComputing/Virtual-box.png",
-                "title": "Virtual box"
+                "title": "Virtual box",
+                "score": 80
             }
         },
-        
         {
             "type": "card",
             "content": {
                 "image": "images/CloudComputing/docker.png",
-                "title": "Docker"
+                "title": "Docker",
+                "score": 85
             }
-        } 
+        }
     ]
 }

@@ -1,32 +1,38 @@
 {
     "title": "Python Libraries",
+    "backgroundcolor1": "#06487e",
+    "backgroundcolor2": "#00000000",
     "items": [
         {
             "type": "card",
             "content": {
                 "image": "images/pythonlibrary1/ScikitLearn.png",
-                "title": "Scikit Learn"
+                "title": "Scikit Learn",
+                "score":76
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/pythonlibrary1/Tensorflow.png",
-                "title": "Tensorflow"
+                "title": "Tensorflow",
+                "score":35
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/pythonlibrary1/Keras.png",
-                "title": "Keras"
+                "title": "Keras",
+                "score":35
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/pythonlibrary1/OpenCv.png",
-                "title": "OpenCv"
+                "title": "OpenCv",
+                "score":60
             }
         } 
     ]

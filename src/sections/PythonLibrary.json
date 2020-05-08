@@ -1,69 +1,79 @@
 {
-    "title": "Python Libraries",
-    "items": [
-      {
-        "type": "card",
-        "content": {
-          "image": "images/pythonlibrary/Pandas.png",
-          "title": "Pandas"
-        }
-      } ,
-      {
-        "type": "card",
-        "content": {
-          "image": "images/pythonlibrary/Numpy.png",
-          "title": "Numpy"
-        }
-      } ,
-      {
-        "type": "card",
-        "content": {
-          "image": "images/pythonlibrary/Matplotlib.png",
-          "title": "Matplotlib"
-        }
-      } ,
-      {
-        "type": "card",
-        "content": {
-          "image": "images/pythonlibrary/plotly.png",
-          "title": "plotly"
-        }
-      } ,
-      {
-        "type": "card",
-        "content": {
-          "image": "images/pythonlibrary/Tkinter.png",
-          "title": "Tkinter"
-        }
-      } ,
-      {
-        "type": "card",
-        "content": {
-          "image": "images/pythonlibrary/QtPy.png",
-          "title": "QtPy"
-        }
-      } ,
-      {
-        "type": "card",
-        "content": {
-          "image": "images/pythonlibrary/kivy.png",
-          "title": "Kivy"
-        }
-      } ,
-      {
-        "type": "card",
-        "content": {
-          "image": "images/pythonlibrary/BeautifulSoup.png",
-          "title": "Beautiful Soup"
-        }
-      } ,
-      {
-        "type": "card",
-        "content": {
-          "image": "images/pythonlibrary/Selenium.png",
-          "title": "Selenium"
-        }
-      }  
-       
-    ]
-  }
+  "title": "Python Libraries",
+  "backgroundcolor1": "#06487e",
+  "backgroundcolor2": "#00000000",
+  "items": [
+    {
+      "type": "card",
+      "content": {
+        "image": "images/pythonlibrary/Pandas.png",
+        "title": "Pandas",
+        "score": 85
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/pythonlibrary/Numpy.png",
+        "title": "Numpy",
+        "score": 80
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/pythonlibrary/Matplotlib.png",
+        "title": "Matplotlib",
+        "score": 80
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/pythonlibrary/plotly.png",
+        "title": "plotly",
+        "score": 75
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/pythonlibrary/Tkinter.png",
+        "title": "Tkinter",
+        "score": 65
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/pythonlibrary/QtPy.png",
+        "title": "QtPy",
+        "score": 35
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/pythonlibrary/kivy.png",
+        "title": "Kivy",
+        "score": 35
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/pythonlibrary/BeautifulSoup.png",
+        "title": "Beautiful Soup",
+        "score": 60
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/pythonlibrary/Selenium.png",
+        "title": "Selenium",
+        "score": 75
+      }
+    }
+  ]
+}

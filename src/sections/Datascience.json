@@ -1,67 +1,78 @@
 {
     "title": "AI & ML AND NN",
+    "backgroundcolor1": "#585a5a",
+    "backgroundcolor2": "#00000000",
     "items": [
         {
             "type": "card",
             "content": {
                 "image": "images/AIMLANDNN/Mathematic.png",
-                "title": "Math"
+                "title": "Math",
+                "score": 90
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/AIMLANDNN/Statistic.png",
-                "title": "Statistic"
+                "title": "Statistic",
+                "score": 70
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/AIMLANDNN/Probability.png",
-                "title": "Probability"
+                "title": "Probability",
+                "score": 65
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/AIMLANDNN/Linear-algebra.png",
-                "title": "Linear algebra"
+                "title": "Linear algebra",
+                "score": 90
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/AIMLANDNN/Regression.png",
-                "title": "Regression"
+                "title": "Regression",
+                "score": 95
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/AIMLANDNN/MLP-RBFN-NN.png",
-                "title": "MLP&RBFN NN"
+                "title": "MLP&RBFN NN",
+                "score": 80
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/AIMLANDNN/K-means.png",
-                "title": "K-means"
+                "title": "K-means",
+                "score": 40
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/AIMLANDNN/SVM.png",
-                "title": "SVM"
+                "title": "SVM",
+                "score": 50
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/AIMLANDNN/PCA.png",
-                "title": "PCA"
+                "title": "PCA",
+                "score": 60
             }
         }
     ]

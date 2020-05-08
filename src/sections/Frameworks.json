@@ -1,32 +1,38 @@
 {
   "title": "Frameworks",
+  "backgroundcolor1": "#a70404",
+  "backgroundcolor2": "#00000000",
   "items": [
     {
       "type": "card",
       "content": {
         "image": "images/frameworks/Flask.png",
-        "title": "Flask"
+        "title": "Flask",
+        "score":70
       }
     },
     {
       "type": "card",
       "content": {
         "image": "images/frameworks/Django.png",
-        "title": "Django"
+        "title": "Django",
+        "score":65
       }
     },
     {
       "type": "card",
       "content": {
         "image": "images/frameworks/Laravel.png",
-        "title": "Laravel"
+        "title": "Laravel",
+        "score":60
       }
     },
     {
       "type": "card",
       "content": {
         "image": "images/frameworks/React.png",
-        "title": "React"
+        "title": "React",
+        "score":75
       }
     },
     {
@@ -34,34 +40,40 @@
       "content": {
         "image": "images/frameworks/Vue.png",
         "title": "Vue"
+        ,
+        "score":75
       }
     },
     {
       "type": "card",
       "content": {
         "image": "images/frameworks/Angular.png",
-        "title": "Angular"
+        "title": "Angular",
+        "score":50
       }
     },
     {
       "type": "card",
       "content": {
         "image": "images/frameworks/JQuery.png",
-        "title": "JQuery"
+        "title": "JQuery",
+        "score":85
       }
     },
     {
       "type": "card",
       "content": {
         "image": "images/frameworks/Bootstrap.png",
-        "title": "Bootstrap"
+        "title": "Bootstrap",
+        "score":75
       }
     },
     {
       "type": "card",
       "content": {
         "image": "images/frameworks/Ionic.png",
-        "title": "Ionic"
+        "title": "Ionic",
+        "score":85
       }
     }
      

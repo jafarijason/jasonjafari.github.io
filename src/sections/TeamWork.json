@@ -1,46 +1,54 @@
 {
     "title": "TeamWork",
+    "backgroundcolor1": "#e28f8f",
+    "backgroundcolor2": "#00000000",
     "items": [
         {
             "type": "card",
             "content": {
                 "image": "images/teamwork/Git.png",
-                "title": "Git"
+                "title": "Git",
+                "score": 95
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/teamwork/GitHub.png",
-                "title": "GitHub"
+                "title": "GitHub",
+                "score": 85
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/teamwork/Gitea.png",
-                "title": "Gitea"
+                "title": "Gitea",
+                "score": 78
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/teamwork/Trello.png",
-                "title": "Trello"
+                "title": "Trello",
+                "score": 50
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/teamwork/Scrum.png",
-                "title": "Scrum"
+                "title": "Scrum",
+                "score": 35
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/teamwork/Agile.png",
-                "title": "Agile"
+                "title": "Agile",
+                "score": 35
             }
         }
     ]
