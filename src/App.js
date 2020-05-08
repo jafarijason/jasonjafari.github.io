@@ -23,7 +23,7 @@ class App extends Component {
     return (
       <div name="maincontentent">
         <input type="hidden" id="colorvalue" value="0" />
-        <SnowStorm animationInterval="1" flakesMax="1000" flakesMaxActive="1000" vMaxY="15" />
+        <SnowStorm animationInterval="1" flakesMax="10" flakesMaxActive="10" vMaxY="15" />
         <FirstBox />
         <TitlesSection />
         <AboutSection />
