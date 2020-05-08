@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JasonJafariResumeReact/static/css/main.a79874f5.chunk.css",
+    "main.js": "/JasonJafariResumeReact/static/js/main.2017cf8d.chunk.js",
+    "main.js.map": "/JasonJafariResumeReact/static/js/main.2017cf8d.chunk.js.map",
+    "runtime-main.js": "/JasonJafariResumeReact/static/js/runtime-main.9b10053e.js",
+    "runtime-main.js.map": "/JasonJafariResumeReact/static/js/runtime-main.9b10053e.js.map",
+    "static/js/2.c7b605b6.chunk.js": "/JasonJafariResumeReact/static/js/2.c7b605b6.chunk.js",
+    "static/js/2.c7b605b6.chunk.js.map": "/JasonJafariResumeReact/static/js/2.c7b605b6.chunk.js.map",
+    "index.html": "/JasonJafariResumeReact/index.html",
+    "precache-manifest.744c027eb887f09f5d30aad92ac64499.js": "/JasonJafariResumeReact/precache-manifest.744c027eb887f09f5d30aad92ac64499.js",
+    "service-worker.js": "/JasonJafariResumeReact/service-worker.js",
+    "static/css/main.a79874f5.chunk.css.map": "/JasonJafariResumeReact/static/css/main.a79874f5.chunk.css.map",
+    "static/js/2.c7b605b6.chunk.js.LICENSE.txt": "/JasonJafariResumeReact/static/js/2.c7b605b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b10053e.js",
+    "static/js/2.c7b605b6.chunk.js",
+    "static/css/main.a79874f5.chunk.css",
+    "static/js/main.2017cf8d.chunk.js"
+  ]
+}
