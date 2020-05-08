@@ -1,5 +1,29 @@
-
-
 .b {
   position: absolute;
+}
+
+.fotterend {
+  margin: 30px;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  margin-top: 50px;
+}
+.afotterend{
+  font-family: helvetica;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+
+.afotterend:hover {
+  text-decoration: underline;
+}
+
+.afotterend:active {
+  color: black;
+}
+
+.afotterend:visited {
+  color: rgb(2, 0, 2);
 }
