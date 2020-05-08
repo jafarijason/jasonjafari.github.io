@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "135b2c3e042a7567af85e61b47430a4a",
+    "revision": "c3a4711054ac27019786c69bbaae6355",
     "url": "/JasonJafariResumeReact/index.html"
   },
   {
-    "revision": "f433985961160c840e5d",
+    "revision": "5da9aa6605c834a77f13",
     "url": "/JasonJafariResumeReact/static/css/main.a79874f5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JasonJafariResumeReact/static/js/2.c7b605b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f433985961160c840e5d",
-    "url": "/JasonJafariResumeReact/static/js/main.dea83d5c.chunk.js"
+    "revision": "5da9aa6605c834a77f13",
+    "url": "/JasonJafariResumeReact/static/js/main.42e03770.chunk.js"
   },
   {
     "revision": "7eb6c352420f69bb4215",
