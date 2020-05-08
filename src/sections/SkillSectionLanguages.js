@@ -15,8 +15,10 @@ class SkillSectionLanguages extends Component {
         <h3  className="thirdLanguages" >{skilllanguagessss.title}</h3>
         <div className="cards-wrapper">
           {skilllanguagessss.items.map(eachSkill => {
+            eachSkill.content['backgroundcolor1']  = skilllanguagessss.backgroundcolor1
+            eachSkill.content['backgroundcolor2'] = skilllanguagessss.backgroundcolor2
             return (
-              <SkillCard className="thirdLanguagescard" skill={eachSkill}/>
+              <SkillCard  className="thirdLanguagescard" skill={eachSkill}/>
             );
           })}
         </div>

@@ -1,61 +1,80 @@
 {
-    "title": "Programming Skills",
-    "items": [
-      {
-        "type": "card",
-        "content": {
-          "image": "images/languages/Python.png",
-          "title": "Python"
-        }
-      },{
-        "type": "card",
-        "content": {
-          "image": "images/languages/Cpp.png",
-          "title": "C++"
-        }
-      } ,{
-        "type": "card",
-        "content": {
-          "image": "images/languages/PHP.png",
-          "title": "PHP"
-        }
-      } ,{
-        "type": "card",
-        "content": {
-          "image": "images/languages/JavaScript.png",
-          "title": "Java Script"
-        }
-      } ,{
-        "type": "card",
-        "content": {
-          "image": "images/languages/SQL.png",
-          "title": "SQL"
-        }
-      } ,{
-        "type": "card",
-        "content": {
-          "image": "images/languages/HTML.png",
-          "title": "HTML"
-        }
-      } ,{
-        "type": "card",
-        "content": {
-          "image": "images/languages/CSS.png",
-          "title": "CSS"
-        }
-      } ,{
-        "type": "card",
-        "content": {
-          "image": "images/languages/MATLAB.png",
-          "title": "MATLAB"
-        }
-      } ,{
-        "type": "card",
-        "content": {
-          "image": "images/languages/R.png",
-          "title": "R"
-        }
-      }  
-       
-    ]
-  }
+  "title": "Programming Skills",
+  "backgroundcolor1": "#18596d",
+  "backgroundcolor2": "#00000000",
+  "items": [
+    {
+      "type": "card",
+      "content": {
+        "image": "images/languages/Python.png",
+        "title": "Python",
+        "score": 90
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/languages/PHP.png",
+        "title": "PHP",
+        "score": 75
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/languages/JavaScript.png",
+        "title": "Java Script",
+        "score": 70
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/languages/Cpp.png",
+        "title": "C++",
+        "score": 55
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/languages/SQL.png",
+        "title": "SQL",
+        "score": 70
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/languages/HTML.png",
+        "title": "HTML",
+        "score": 95
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/languages/CSS.png",
+        "title": "CSS",
+        "score": 60
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/languages/MATLAB.png",
+        "title": "MATLAB"
+        ,
+        "score": 45
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/languages/R.png",
+        "title": "R",
+        "score": 50
+      }
+    }
+  ]
+}
