@@ -2,7 +2,7 @@
   "name": "jason-jafari-resume-react",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://thisisjasonjafari.github.io/JasonJafariResumeReact/build/",
+  "homepage":"/JasonJafariResumeReact/build/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
