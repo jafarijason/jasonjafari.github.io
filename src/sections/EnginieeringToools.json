@@ -1,33 +1,39 @@
 {
     "title": "Enginieering Toools",
+    "backgroundcolor1": "#535252",
+    "backgroundcolor2": "#00000000",
     "items": [
         {
             "type": "card",
             "content": {
                 "image": "images/EnginieeringToools/Solid-Works.png",
-                "title": "Solid Works"
+                "title": "Solid Works",
+                "score": 98
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/EnginieeringToools/Altium-Designer.png",
-                "title": "Altium Designer"
+                "title": "Altium Designer",
+                "score": 70
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/EnginieeringToools/Arduino.png",
-                "title": "Arduino"
+                "title": "Arduino",
+                "score": 95
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/EnginieeringToools/LABView.png",
-                "title": "LABView"
+                "title": "LABView",
+                "score": 45
             }
-        } 
+        }
     ]
 }

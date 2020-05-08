@@ -31,68 +31,79 @@
     },
     {
       "title": "Other Skills",
+      "backgroundcolor1": "#979595",
+      "backgroundcolor2": "#00000000",
       "items": [
         {
           "type": "card",
           "content": {
             "image": "images/otherSkills/MVC.png",
-            "title": "MVC"
+            "title": "MVC",
+            "score": 45
           }
         },
         {
           "type": "card",
           "content": {
             "image": "images/otherSkills/ORM.png",
-            "title": "ORM"
+            "title": "ORM",
+            "score": 45
           }
         },
         {
           "type": "card",
           "content": {
             "image": "images/otherSkills/OOP.png",
-            "title": "OOP"
+            "title": "OOP",
+            "score": 80
           }
         },
         {
           "type": "card",
           "content": {
             "image": "images/otherSkills/SEO.png",
-            "title": "SEO"
+            "title": "SEO",
+            "score": 85
           }
         },
         {
           "type": "card",
           "content": {
             "image": "images/otherSkills/RegEx.png",
-            "title": "RegEx"
+            "title": "RegEx",
+            "score": 75
           }
         },
         {
           "type": "card",
           "content": {
             "image": "images/otherSkills/Unit-Testing.png",
-            "title": "Unit Testing"
+            "title": "Unit Testing",
+            "score": 35
           }
         },
         {
           "type": "card",
           "content": {
             "image": "images/otherSkills/MikroTik.png",
-            "title": "MikroTik"
+            "title": "MikroTik",
+            "score": 80
           }
         },
         {
           "type": "card",
           "content": {
             "image": "images/otherSkills/Server-Management.png",
-            "title": "Server TCP/IP"
+            "title": "Server TCP/IP",
+            "score": 70
           }
         },
         {
           "type": "card",
           "content": {
             "image": "images/otherSkills/REST-API.png",
-            "title": "HTTP REST API"
+            "title": "HTTP REST API",
+            "score": 85
           }
         }
       ]
@@ -129,14 +140,14 @@
     {
       "name": "CC",
       "desteny": "clcl"
-    } ,
+    },
     {
       "name": "Eng Tools",
       "desteny": "engtools"
-    } ,
+    },
     {
       "name": "Others",
       "desteny": "otherss"
-    } 
+    }
   ]
 }

@@ -2,6 +2,10 @@
     background-color: #c0c0c0;
 }
 
+
+.third .cards-wrapper .card {
+    background-color: #ff0000;
+  }
 .cards-wrapper {
     display: flex;
     flex-direction: row;
