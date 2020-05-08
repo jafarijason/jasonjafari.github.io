@@ -1,34 +1,39 @@
 {
     "title": "Web Servers",
+    "backgroundcolor1": "#746650",
+    "backgroundcolor2": "#00000000",
     "items": [
         {
             "type": "card",
             "content": {
                 "image": "images/webservers/Apache.png",
-                "title": "Apache"
+                "title": "Apache",
+                "score": 80
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/webservers/Nginx.png",
-                "title": "Nginx"
+                "title": "Nginx",
+                "score": 65
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/webservers/Litespeed.png",
-                "title": "Lite speed"
+                "title": "Lite speed",
+                "score": 80
             }
         },
         {
             "type": "card",
             "content": {
                 "image": "images/webservers/IIS.png",
-                "title": "IIS"
+                "title": "IIS",
+                "score": 55
             }
-        } 
-         
+        }
     ]
 }
