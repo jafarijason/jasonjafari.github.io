@@ -9,8 +9,9 @@
 /coverage
 
 # production
-# /build
-
+/build
+# react-gh-pages
+# /react-gh-pages
 # misc
 .DS_Store
 .env.local

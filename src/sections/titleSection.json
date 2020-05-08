@@ -1,7 +1,7 @@
 {
     "title": "Hello This is Jason Jafari Marandi!",
     "subtitle": "Full Stack Dev | Data Scientist | Open-Source Enthusiast",
-    "imglink": "/images/others/mypic.png",
+    "imglink": "images/others/mypic.png",
     "links": {
         "github": {
             "network": "github",
