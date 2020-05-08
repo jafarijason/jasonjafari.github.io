@@ -1,0 +1,68 @@
+{
+    "title": "AI & ML AND NN",
+    "items": [
+        {
+            "type": "card",
+            "content": {
+                "image": "images/AIMLANDNN/Mathematic.png",
+                "title": "Math"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/AIMLANDNN/Statistic.png",
+                "title": "Statistic"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/AIMLANDNN/Probability.png",
+                "title": "Probability"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/AIMLANDNN/Linear-algebra.png",
+                "title": "Linear algebra"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/AIMLANDNN/Regression.png",
+                "title": "Regression"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/AIMLANDNN/MLP-RBFN-NN.png",
+                "title": "MLP&RBFN NN"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/AIMLANDNN/K-means.png",
+                "title": "K-means"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/AIMLANDNN/SVM.png",
+                "title": "SVM"
+            }
+        },
+        {
+            "type": "card",
+            "content": {
+                "image": "images/AIMLANDNN/PCA.png",
+                "title": "PCA"
+            }
+        }
+    ]
+}

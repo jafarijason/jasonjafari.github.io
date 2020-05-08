@@ -1,0 +1,13 @@
+.Frameworks {
+  background-color: #ff0000;
+  color: white;
+}
+
+.Frameworks .cards-wrapper .card {
+  background-color: rgb(110, 15, 15);
+}
+
+.Frameworks .image-wrapper {
+    text-align: right;
+}
+ 

@@ -1,0 +1,69 @@
+{
+  "title": "Frameworks",
+  "items": [
+    {
+      "type": "card",
+      "content": {
+        "image": "images/frameworks/Flask.png",
+        "title": "Flask"
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/frameworks/Django.png",
+        "title": "Django"
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/frameworks/Laravel.png",
+        "title": "Laravel"
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/frameworks/React.png",
+        "title": "React"
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/frameworks/Vue.png",
+        "title": "Vue"
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/frameworks/Angular.png",
+        "title": "Angular"
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/frameworks/JQuery.png",
+        "title": "JQuery"
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/frameworks/Bootstrap.png",
+        "title": "Bootstrap"
+      }
+    },
+    {
+      "type": "card",
+      "content": {
+        "image": "images/frameworks/Ionic.png",
+        "title": "Ionic"
+      }
+    }
+     
+  ]
+}

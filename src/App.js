@@ -3,9 +3,11 @@ import TitlesSection from "./sections/TitlesSection";
 import AboutSection from "./sections/AboutSection";
 import SkillSectionLanguages from "./sections/SkillSectionLanguages";
 import DataBaseKoledge from "./sections/DataBaseKoledge";
+import Frameworks from "./sections/Frameworks";
 import SkillSection from "./sections/SkillSection";
 import PythonLibrary from "./sections/PythonLibrary";
 import PythonLibrary1 from "./sections/PythonLibrary1";
+import Datascience from "./sections/Datascience";
 import FirstBox from "./sections/FirstBox";
 import EndBox from "./sections/EndBox";
 import "./App.css";
@@ -23,8 +25,10 @@ class App extends Component {
         <AboutSection />
         <SkillSectionLanguages />
         <DataBaseKoledge />
+        <Frameworks />
         <PythonLibrary />
         <PythonLibrary1 />
+        <Datascience />
         <SkillSection />
         <EndBox />
 
