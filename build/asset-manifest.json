@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/build/static/css/main.a79874f5.chunk.css",
-    "main.js": "/build/static/js/main.c9030ac9.chunk.js",
-    "main.js.map": "/build/static/js/main.c9030ac9.chunk.js.map",
-    "runtime-main.js": "/build/static/js/runtime-main.d5c4092f.js",
-    "runtime-main.js.map": "/build/static/js/runtime-main.d5c4092f.js.map",
-    "static/js/2.c7b605b6.chunk.js": "/build/static/js/2.c7b605b6.chunk.js",
-    "static/js/2.c7b605b6.chunk.js.map": "/build/static/js/2.c7b605b6.chunk.js.map",
-    "index.html": "/build/index.html",
-    "precache-manifest.3919aa1f3fa21103922d83fd50ca0b29.js": "/build/precache-manifest.3919aa1f3fa21103922d83fd50ca0b29.js",
-    "service-worker.js": "/build/service-worker.js",
-    "static/css/main.a79874f5.chunk.css.map": "/build/static/css/main.a79874f5.chunk.css.map",
-    "static/js/2.c7b605b6.chunk.js.LICENSE.txt": "/build/static/js/2.c7b605b6.chunk.js.LICENSE.txt"
+    "main.css": "/JasonJafariResumeReact/build/static/css/main.a79874f5.chunk.css",
+    "main.js": "/JasonJafariResumeReact/build/static/js/main.d5ad7b01.chunk.js",
+    "main.js.map": "/JasonJafariResumeReact/build/static/js/main.d5ad7b01.chunk.js.map",
+    "runtime-main.js": "/JasonJafariResumeReact/build/static/js/runtime-main.7b3653d8.js",
+    "runtime-main.js.map": "/JasonJafariResumeReact/build/static/js/runtime-main.7b3653d8.js.map",
+    "static/js/2.c7b605b6.chunk.js": "/JasonJafariResumeReact/build/static/js/2.c7b605b6.chunk.js",
+    "static/js/2.c7b605b6.chunk.js.map": "/JasonJafariResumeReact/build/static/js/2.c7b605b6.chunk.js.map",
+    "index.html": "/JasonJafariResumeReact/build/index.html",
+    "precache-manifest.f532ff106d38a4cbbf1c1dca389e0d47.js": "/JasonJafariResumeReact/build/precache-manifest.f532ff106d38a4cbbf1c1dca389e0d47.js",
+    "service-worker.js": "/JasonJafariResumeReact/build/service-worker.js",
+    "static/css/main.a79874f5.chunk.css.map": "/JasonJafariResumeReact/build/static/css/main.a79874f5.chunk.css.map",
+    "static/js/2.c7b605b6.chunk.js.LICENSE.txt": "/JasonJafariResumeReact/build/static/js/2.c7b605b6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5c4092f.js",
+    "static/js/runtime-main.7b3653d8.js",
     "static/js/2.c7b605b6.chunk.js",
     "static/css/main.a79874f5.chunk.css",
-    "static/js/main.c9030ac9.chunk.js"
+    "static/js/main.d5ad7b01.chunk.js"
   ]
 }
