@@ -1,0 +1,4 @@
+.menuButton {}
+.menuButton:hover {
+  box-shadow: 0 1em 1em rgba(0, 0, 0, 0.25), 0 0.5em 0.5em rgba(0, 0, 0, 0.22);
+}

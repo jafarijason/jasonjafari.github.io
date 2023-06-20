@@ -6,7 +6,7 @@
   border: 0px solid green;
   z-index: 100000;
 }
-.rightplace {
+.rightPlace {
   font-size: 1.2rem;
   font: bold;
   font-weight: 700;
@@ -16,7 +16,7 @@
 }
 
 @media only screen and (max-width: 900px) {
-  .rightplace {
+  .rightPlace {
     font-size: 0.4rem;
   }
 }

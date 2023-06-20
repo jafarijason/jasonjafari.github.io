@@ -1,15 +1,12 @@
-import React, {Component} from 'react';
-import './Fullpage.css'
+import React from 'react';
+import './FullPage.css'
 
-class Fullpage extends Component {
-    render() {
-        const { children } = this.props
-        return (
-            <div id={` ${this.props.className || ''}`} className={`fullpage ${this.props.className || ''}`}>
-                {children}
-            </div>
-        )
-    }
+const FullPage = ({children, className}) => {
+    return (
+        <div id={` ${className || ''}`} className={`fullpage ${className || ''}`}>
+            {children}
+        </div>
+    )
 }
 
-export default Fullpage
+export default FullPage;

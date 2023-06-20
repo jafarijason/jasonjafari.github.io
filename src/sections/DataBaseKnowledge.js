@@ -1,26 +1,24 @@
 import React, { Component } from "react";
 import FullPage from "../components/FullPage";
-import skillLanguages from "./PythonLibrary1.json";
+import skillLanguages from "./DataBaseKnowledge.json";
 import data from "../data.json";
 import SkillCard from '../components/SkillCard';
 import DownIcon from "../components/DownIcon";
 import {  Link  } from "react-scroll";
-import "./PythonLibrary.css";
+import "./DataBaseKnowledge.css";
 
-class PythonLibrary extends Component {
+class SkillSectionLanguages extends Component {
   render() {
     return (
-      <div name="portfolioScrool">      <FullPage className="thirdpythonlibrary">
+      <div name="portfolioScrool">      <FullPage className="DataBaseKnowledge">
        
-        <h3  className="thirdpythonlibrary" >{skillLanguages.title}</h3>
+        <h3  className="DataBaseKnowledge" >{skillLanguages.title}</h3>
         <div className="cards-wrapper">
           {skillLanguages.items.map(eachSkill => {
-            
-            
             eachSkill.content['backgroundColor1']  = skillLanguages.backgroundColor1
             eachSkill.content['backgroundColor2'] = skillLanguages.backgroundColor2
             return (
-              <SkillCard className="thirdpythonlibrarycard" skill={eachSkill}/>
+              <SkillCard className="thirdLanguagesCard" skill={eachSkill}/>
             );
           })}
         </div>
@@ -46,4 +44,4 @@ class PythonLibrary extends Component {
   }
 }
 
-export default PythonLibrary;
+export default SkillSectionLanguages;

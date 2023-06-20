@@ -1,0 +1,13 @@
+.DataBaseKnowledge {
+  background-color: #c7caca;
+  color: white;
+}
+
+.DataBaseKnowledge .cards-wrapper .card {
+  background-color: #000000;
+}
+
+.DataBaseKnowledge .image-wrapper {
+    text-align: right;
+}
+ 

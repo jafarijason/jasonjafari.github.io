@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import Fullpage from "../components/Fullpage";
-import skilllanguagessss from "./PythonLibrary.json";
+import FullPage from "../components/FullPage";
+import skillLanguages from "./PythonLibrary.json";
 import data from "../data.json";
 import SkillCard from '../components/SkillCard';
 import DownIcon from "../components/DownIcon";
@@ -11,24 +11,24 @@ class PythonLibrary extends Component {
   render() {
     
     return (
-      <div name="portfolioscrool">      <Fullpage className="thirdpythonlibrary">
+      <div name="portfolioScrool">      <FullPage className="thirdpythonlibrary">
        
-        <h3  className="thirdpythonlibrary" >{skilllanguagessss.title}</h3>
+        <h3  className="thirdpythonlibrary" >{skillLanguages.title}</h3>
         <div className="cards-wrapper">
-          {skilllanguagessss.items.map(eachSkill => {
+          {skillLanguages.items.map(eachSkill => {
             
-            eachSkill.content['backgroundcolor1']  = skilllanguagessss.backgroundcolor1
-            eachSkill.content['backgroundcolor2'] = skilllanguagessss.backgroundcolor2
+            eachSkill.content['backgroundColor1']  = skillLanguages.backgroundColor1
+            eachSkill.content['backgroundColor2'] = skillLanguages.backgroundColor2
             return (
               <SkillCard className="thirdpythonlibrarycard" skill={eachSkill}/>
             );
           })}
         </div>
-      </Fullpage>
+      </FullPage>
       
       <Link
           activeClass="active"
-          to="maincontentent"
+          to="mainContentSection"
           spy={true}
           smooth={true}
           offset={0}

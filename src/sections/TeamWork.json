@@ -1,7 +1,7 @@
 {
     "title": "TeamWork",
-    "backgroundcolor1": "#e28f8f",
-    "backgroundcolor2": "#00000000",
+    "backgroundColor1": "#e28f8f",
+    "backgroundColor2": "#00000000",
     "items": [
         {
             "type": "card",

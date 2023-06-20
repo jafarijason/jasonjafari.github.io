@@ -1,7 +1,7 @@
 {
   "title": "Programming Skills",
-  "backgroundcolor1": "#18596d",
-  "backgroundcolor2": "#00000000",
+  "backgroundColor1": "#18596d",
+  "backgroundColor2": "#00000000",
   "items": [
     {
       "type": "card",

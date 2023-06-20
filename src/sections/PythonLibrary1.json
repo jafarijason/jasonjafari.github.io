@@ -1,7 +1,7 @@
 {
     "title": "Python Libraries",
-    "backgroundcolor1": "#06487e",
-    "backgroundcolor2": "#00000000",
+    "backgroundColor1": "#06487e",
+    "backgroundColor2": "#00000000",
     "items": [
         {
             "type": "card",
