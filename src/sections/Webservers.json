@@ -1,7 +1,7 @@
 {
     "title": "Web Servers",
-    "backgroundcolor1": "#746650",
-    "backgroundcolor2": "#00000000",
+    "backgroundColor1": "#746650",
+    "backgroundColor2": "#00000000",
     "items": [
         {
             "type": "card",

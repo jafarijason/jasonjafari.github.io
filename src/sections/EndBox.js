@@ -1,11 +1,17 @@
-import React, { Component } from "react";
+import React from "react";
 
-class EndBox extends Component {
-  render() {
-    return <div name="end" >
-      <p className="fotterend" >Powerd by <a target={`_blank`} className="afotterend" href={`https://github.com/thisisjasonjafari/JasonJafariResumeReact`} >Create React App</a> on GitHub</p>
-    </div>;
-  }
+
+const EndBox = () => {
+  return <div name="end" >
+    <p className="fotterend" >
+      Powered by{` `}
+      <a target={`_blank`} className="afotterend" href={`https://github.com/jafarijason/jasonjafari.github.io`} >
+        Create React App
+      </a>
+      {` `}on GitHub
+    </p>
+  </div>;
 }
+
 
 export default EndBox;

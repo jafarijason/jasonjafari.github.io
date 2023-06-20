@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import TitlesSection from "./sections/TitlesSection";
+import TitlesSectionNew from "./sections/TitlesSectionNew";
 import AboutSection from "./sections/AboutSection";
-import SkillSectionLanguages from "./sections/SkillSectionLanguages";
-import DataBaseKoledge from "./sections/DataBaseKoledge";
+import SkillSectionLanguages from "./sections/SkillSectionLanguagesNew";
+import DataBaseKnowledge from "./sections/DataBaseKnowledge";
 import Frameworks from "./sections/Frameworks";
 import SkillSection from "./sections/SkillSection";
 import PythonLibrary from "./sections/PythonLibrary";
@@ -21,14 +21,14 @@ import SnowStorm from 'react-snowstorm';
 class App extends Component {
   render() {
     return (
-      <div name="maincontentent">
+      <div name="mainContentSection">
         <input type="hidden" id="colorvalue" value="0" />
         <SnowStorm animationInterval="1" flakesMax="10" flakesMaxActive="10" vMaxY="15" />
         <FirstBox />
-        <TitlesSection />
+        <TitlesSectionNew />
         <AboutSection />
-        <SkillSectionLanguages />
-        <DataBaseKoledge />
+        {/*
+        <DataBaseKnowledge />
         <Frameworks />
         <PythonLibrary />
         <PythonLibrary1 />
@@ -39,7 +39,7 @@ class App extends Component {
         <EnginieeringToools />
 
         <SkillSection />
-        <EndBox />
+        <EndBox /> */}
 
       </div>
     );

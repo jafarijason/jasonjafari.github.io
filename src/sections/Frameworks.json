@@ -1,7 +1,7 @@
 {
   "title": "Frameworks",
-  "backgroundcolor1": "#a70404",
-  "backgroundcolor2": "#00000000",
+  "backgroundColor1": "#a70404",
+  "backgroundColor2": "#00000000",
   "items": [
     {
       "type": "card",

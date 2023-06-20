@@ -31,8 +31,8 @@
     },
     {
       "title": "Other Skills",
-      "backgroundcolor1": "#979595",
-      "backgroundcolor2": "#00000000",
+      "backgroundColor1": "#979595",
+      "backgroundColor2": "#00000000",
       "items": [
         {
           "type": "card",
@@ -113,10 +113,10 @@
     "down": "images/down.png",
     "UP": "images/up.png"
   },
-  "keyyss": [
+  "keys": [
     {
       "name": "Home",
-      "desteny": "maincontentent",
+      "desteny": "mainContentSection",
       "type": "S"
     },
     {
@@ -126,7 +126,7 @@
     },
     {
       "name": "Skills",
-      "desteny": "portfolioscrool",
+      "desteny": "portfolioScrool",
       "type": "S"
     },
     {

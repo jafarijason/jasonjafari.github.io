@@ -1,7 +1,7 @@
 {
     "title": "AI & ML AND NN",
-    "backgroundcolor1": "#585a5a",
-    "backgroundcolor2": "#00000000",
+    "backgroundColor1": "#585a5a",
+    "backgroundColor2": "#00000000",
     "items": [
         {
             "type": "card",

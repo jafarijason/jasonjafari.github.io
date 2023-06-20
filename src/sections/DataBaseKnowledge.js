@@ -1,32 +1,32 @@
 import React, { Component } from "react";
-import Fullpage from "../components/Fullpage";
-import skilllanguagessss from "./SkillSectionLanguages.json";
+import FullPage from "../components/FullPage";
+import skillLanguages from "./DataBaseKnowledge.json";
 import data from "../data.json";
 import SkillCard from '../components/SkillCard';
 import DownIcon from "../components/DownIcon";
 import {  Link  } from "react-scroll";
-import "./SkillSectionLanguages.css";
+import "./DataBaseKnowledge.css";
 
 class SkillSectionLanguages extends Component {
   render() {
     return (
-      <div name="portfolioscrool">      <Fullpage className="thirdLanguages">
+      <div name="portfolioScrool">      <FullPage className="DataBaseKnowledge">
        
-        <h3  className="thirdLanguages" >{skilllanguagessss.title}</h3>
+        <h3  className="DataBaseKnowledge" >{skillLanguages.title}</h3>
         <div className="cards-wrapper">
-          {skilllanguagessss.items.map(eachSkill => {
-            eachSkill.content['backgroundcolor1']  = skilllanguagessss.backgroundcolor1
-            eachSkill.content['backgroundcolor2'] = skilllanguagessss.backgroundcolor2
+          {skillLanguages.items.map(eachSkill => {
+            eachSkill.content['backgroundColor1']  = skillLanguages.backgroundColor1
+            eachSkill.content['backgroundColor2'] = skillLanguages.backgroundColor2
             return (
-              <SkillCard  className="thirdLanguagescard" skill={eachSkill}/>
+              <SkillCard className="thirdLanguagesCard" skill={eachSkill}/>
             );
           })}
         </div>
-      </Fullpage>
+      </FullPage>
       
       <Link
           activeClass="active"
-          to="maincontentent"
+          to="mainContentSection"
           spy={true}
           smooth={true}
           offset={0}

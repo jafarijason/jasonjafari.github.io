@@ -5,16 +5,12 @@
     "links": {
         "github": {
             "network": "github",
-            "links": "https://github.com/thisisjasonjafari",
+            "links": "https://github.com/jafarijason",
             "bgcolor" :"#ff5a01"
         },
         "linkedin": {
             "network": "linkedin",
             "links": "https://www.linkedin.com/in/jasonjafari/"
-        },
-        "myCertificate": {
-            "network": "bandsintown",
-            "links": "http://certificate.jasonjafari.com/"
         },
         "youracclaim": {
             "network": "vsco",
